@@ -1,5 +1,3 @@
-# EduVault
-Decentralized document storage for students built on Shelby Protocol
 # 🎓 EduVault — Decentralized Document Storage for Students
 
 EduVault is an open-source tool that helps students securely store, manage, and retrieve their academic documents using the [Shelby Protocol](https://shelby.xyz) — a high-performance decentralized blob storage network built on the Aptos blockchain.
